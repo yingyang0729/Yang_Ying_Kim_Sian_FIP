@@ -1,6 +1,6 @@
 # Yang_Ying_Kim_Sian_FIP
 
-TODO: The repo is for 1056 Web Development FIP, which is finished by Sian Kim and Ying Yang. In the repo, it contains all images, css file, html files, etc. for the course.
+TODO: The repo is for 1056 Web Development FIP, which is finished by Sian Kim and Ying Yang. In the repo, it contains all images, css file, html files, etc. for the course. 5 Pages are linked and connected.
 
 ## Installation
 TODO: In the set up processing, it uses visual code for CSS and HTML5 and find ways on [W3Schools](https://www.w3schools.com/). 
