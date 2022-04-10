@@ -12,7 +12,7 @@ TODO: The repo is for 1056 Web Development.
 
 ## Contributing
 The contributor is Ying Yang and Sian Kim. The folders and the files can be annotated as follow.
-1. Assets-it contains a empty text file;
+1. Assets-it contains a empty text file and 5 PDF of the websites by Sian Kim;
 2. CSS-it contains 4 main.css file;
 3. images-it contains all image files;
 4. includes-it contains 1 PDF file and 1 text file. The PDF is for semantic tagging and doucment outline;
